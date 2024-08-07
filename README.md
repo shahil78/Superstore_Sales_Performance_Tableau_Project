@@ -32,3 +32,5 @@ Getting Started:-
 
 Prerequisites
   - Tableau Desktop or Tableau Public
+
+[Project Link] (https://public.tableau.com/app/profile/shahil.qurishi/viz/SuperstoreSalesPerformance-CapstoneProject_17188173538190/SalesDashboard)
